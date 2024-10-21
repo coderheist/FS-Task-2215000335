@@ -1,0 +1,37 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+    
+  }
+  .container {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+  }
+  h1 {
+    color: #343a40;
+    margin-bottom: 20px;
+  }
+  .row {
+    border-bottom: 1px solid #dee2e6;
+    padding: 10px 0;
+  }
+  #time {
+    background-color: #343a40;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+  }
+  .col-2 {
+    text-align: center;
+    vertical-align: middle;
+  }
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+    color: red;
+  }
